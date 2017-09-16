@@ -1,0 +1,9 @@
+[submodule "sms-page-rest"]
+	path = sms-page-rest
+	url = git@github.com:VICSES/sms-page-rest.git
+[submodule "sms-page-pager"]
+	path = sms-page-pager
+	url = git@github.com:VICSES/sms-page-pager.git
+[submodule "sms-page-website"]
+	path = sms-page-website
+	url = git@github.com:VICSES/sms-page-website.git
